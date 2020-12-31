@@ -1,5 +1,5 @@
 <?php
-$servername = "mysql://xi405pg8ncdf3bs7:n07zrc7kikss3x78@r6ze0q02l4me77k3.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/tg8ggylf2hstpz6z";
+$servername = "r6ze0q02l4me77k3.chr7pe7iynqr.eu-west-1.rds.amazonaws.com";
 $username = "xi405pg8ncdf3bs7";
 $password = "n07zrc7kikss3x78";
 $database = "tg8ggylf2hstpz6z";
