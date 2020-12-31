@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Sujitha Perumal",
+        "email": "sujithaperumal3@gmail.com",
+        "password": "c3VqaXRoYTEy",
+        "phone": "9442582602",
+        "gender": "Female",
+        "degree": "B.E.",
+        "dob": "1998-03-14",
+        "age": "21",
+        "college": "Dr.Mahalingam college of Engineering and Technology",
+        "state": "Tamil Nadu",
+        "department": "Computer Science Engineering",
+        "yop": "2019",
+        "aoi": "Machine Learning"
+    },
+    {
+        "id": "2",
+        "name": "kalpakha",
+        "email": "kalpakha@gmail.com",
+        "password": "a2FscGFraGExMg==",
+        "phone": "9442490045",
+        "gender": "Female",
+        "degree": "",
+        "dob": "1997-11-07",
+        "age": "21",
+        "college": "",
+        "state": "",
+        "department": "",
+        "yop": "",
+        "aoi": ""
+    },
+    {
+        "id": "3",
+        "name": "Abinash Seth",
+        "email": "abinashseth273@gmail.com",
+        "password": "cXdlcnR5MTIz",
+        "phone": "9439976427",
+        "gender": "Male",
+        "degree": "B.Tech",
+        "dob": "10\/09\/1996",
+        "age": "24",
+        "college": "New Horizon college of engineering",
+        "state": "Kerala",
+        "department": "Mechanical Engineering",
+        "yop": "2021",
+        "aoi": "front end developer"
+    }
+]
